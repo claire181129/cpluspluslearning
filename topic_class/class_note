@@ -1,0 +1,4 @@
+#what is a class?
+namespace? then what's exactly in the namespace?
+for multithreading, does it mean all private and public data member are shared between different function member thread? and mutex and lock will lock all data member from access.
+it's command that function member access data member, if mutex prevent that happpening simultaneously, then what's the point of using multithreading in a class?
